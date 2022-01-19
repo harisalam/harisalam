@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there 👋, I'm Haris Alam Lodhi</h1>
 <h3 align="center">Software engineer, Emphasis in Machine Learning based in St. Louis, MO</h3>
 
