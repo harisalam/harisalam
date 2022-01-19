@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi there 👋, I'm Haris Alam Lodhi</h1>
-<h3 align="center">Software engineer based in St. Louis, MO</h3>
+<h3 align="center">Software engineer, Emphasis in Machine Learning based in St. Louis, MO</h3>
 
-- 🔭 I’m currently working on **Computer Vision **
+- 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **Machine Learning**
 
