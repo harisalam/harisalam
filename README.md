@@ -1,16 +1,14 @@
 ### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Haris Alam Lodhi</h1>
+<h3 align="center">Software engineer based in St. Louis, MO</h3>
 
-<!--
-**harisalam/harisalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Computer Vision **
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **harisalamlodhi@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harisalamlodhi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="harisalam" height="50" width="50" /></a>
+</p>
